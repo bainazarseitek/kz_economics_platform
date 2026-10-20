@@ -2,9 +2,11 @@
 
 An interactive analytics platform for exploring Kazakhstan’s regional economy, infrastructure investment, sector importance, and experimental geospatial indicators.
 
-## Winner — Datathon 2024
+## 1st Place — 2024 Data Challenge
 
-This repository is a public portfolio snapshot of the collaborative team project that **won Datathon 2024**. It preserves the application, analysis, and reproducible experiment results while intentionally omitting team member names and personal details.
+Our team placed **1st out of 144 teams** in the 2024 Data Challenge organized by [DataSci](https://www.linkedin.com/company/datasci-kz/) and the [Development Bank of Kazakhstan](https://www.linkedin.com/company/dbkkz/). Over one week, we built an AI-powered platform to support decisions about Kazakhstan's economic growth and infrastructure investment.
+
+This repository is a public portfolio snapshot of that collaborative work. It preserves the application, analysis, and reproducible experiment results while omitting team member names and personal details.
 
 ## What it does
 
@@ -80,7 +82,7 @@ Raw satellite imagery and trained weights are not distributed in this portfolio 
 
 Processed workbooks required by the dashboard are included. Raw source archives, generated training samples, notebook outputs, and large model checkpoints are excluded from the public snapshot.
 
-This is a Datathon prototype. Forecasts and simulated economic effects are exploratory, depend on limited historical data, and should not be treated as official statistics or policy recommendations. Production use would require source-level data validation, broader model evaluation, security review, and monitoring.
+This is a Data Challenge prototype. Forecasts and simulated economic effects are exploratory, depend on limited historical data, and should not be treated as official statistics or policy recommendations. Production use would require source-level data validation, broader model evaluation, security review, and monitoring.
 
 ## Licensing
 
