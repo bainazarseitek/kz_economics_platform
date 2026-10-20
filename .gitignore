@@ -1,0 +1,31 @@
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# Source datasets and generated ML artifacts
+analysis/data/
+ml/GeospatialAI/satellite_dataset/
+ml/GeospatialAI/runs/**/weights/
+ml/GeospatialAI/runs/**/events.out.tfevents.*
+ml/GeospatialAI/runs/**/train_batch*.jpg
+ml/GeospatialAI/runs/**/val_batch*.jpg
+*.pt
+
+# Generated notebook and OS files
+.ipynb_checkpoints/
+*.smcl
